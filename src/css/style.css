@@ -1,0 +1,9 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #F0F0F0; }
+  body h1 {
+    margin-top: 30%;
+    text-align: center;
+    color: #C3C0C0; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlLnNjc3MiLCJfc2V0dGluZ3Muc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFFQTtFQUNJLGtDQUFpQztFQUNqQywwQkNKYyxFRFVqQjtFQVJEO0lBSU0sZ0JBQWU7SUFDZixtQkFBa0I7SUFDbEIsZUNQWSxFRFFiIiwiZmlsZSI6InN0eWxlLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIkBpbXBvcnQgXCJzZXR0aW5nc1wiO1xuXG5ib2R5IHtcbiAgICBmb250LWZhbWlseTogJ1JvYm90bycsIHNhbnMtc2VyaWY7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogJGNvbG9yLWJnO1xuICAgIGgxe1xuICAgICAgbWFyZ2luLXRvcDogMzAlO1xuICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgY29sb3I6ICRjb2xvci1oMTtcbiAgICB9XG59XG4iLCIkY29sb3ItYmc6ICNGMEYwRjA7XG4kY29sb3ItaDE6ICNDM0MwQzA7XG4iXX0= */
